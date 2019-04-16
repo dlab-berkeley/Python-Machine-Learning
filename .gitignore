@@ -1,4 +1,3 @@
-*.csv
 *.pkl
 test/*
 
@@ -91,3 +90,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# tpot output files
+tpot*
