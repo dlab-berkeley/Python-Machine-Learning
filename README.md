@@ -45,7 +45,7 @@ If you have a Berkeley CalNet ID, you can run these lessons on UC Berkeley's Dat
 
 
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
-[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Machine-Learning-Fundamentals/main?urlpath=tree%2FPython-Machine-Learning-Fundamentals%2F)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Machine-Learning-Fundamentals/main?urlpath=tree)
 By using this button, you cannot save your work unfortunately.
 
 # Additional Resources
