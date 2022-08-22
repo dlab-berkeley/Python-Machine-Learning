@@ -1,5 +1,7 @@
 # D-Lab's Python Machine Learning Fundamentals Workshop
 
+[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning-Fundamentals&urlpath=lab%2Ftree%2FPython-Machine-Learning-Fundamentals%2F&branch=main) [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Machine-Learning-Fundamentals/HEAD)
+
 This repository contains the materials for D-Lab’s Python Machine Learning Fundamentals workshop. Prior experience with [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals) is assumed.
 
 ## Workshop Goals
@@ -10,9 +12,9 @@ Basic familiarity with Python is assumed. If you are not comfortable with the ma
 
 ## Installation Instructions
 
-Anaconda is a powerful package management software that allows you to run Python and Jupyter notebooks very easily. Installing Anaconda is the easiest way to make sure you have all the necessary software to run the materials for this workshop. Complete the following steps:
+Anaconda is a useful package management software that allows you to run Python and Jupyter notebooks very easily. Installing Anaconda is the easiest way to make sure you have all the necessary software to run the materials for this workshop. Complete the following steps:
 
-1. [Download and install Anaconda (Python 3.8 distribution)](https://www.anaconda.com/products/individual). Click "Download" and then click 64-bit "Graphical Installer" for your current operating system.
+1. [Download and install Anaconda (Python 3.9 distribution)](https://www.anaconda.com/products/individual). Click "Download" and then click 64-bit "Graphical Installer" for your current operating system.
 
 2. Download the [Python-Machine-Learning-Fundamentals workshop materials](https://github.com/dlab-berkeley/Python-Machine-Learning-Fundamentals):
 
@@ -30,22 +32,22 @@ Now that you have all the required software and materials, you need to run the c
 
 2. Click the "Launch" button under "Jupyter Notebooks" and navigate through your file system to the `Python-Machine-Learning-Fundamentals` folder you downloaded above.
 
-3. Click `1_classification.ipynb` to begin.
+3. Click `00_introduction.md` to begin.
 
 4. Press Shift + Enter (or Ctrl + Enter) to run a cell.
 
-5. By default, the necessary packages for this workshop should already be installed. You can install them within the Jupyter notebook by running the following line in its own cell:
+## Is Python not working on your computer?
 
-> ```!pip install seaborn pandas matplotlib numpy jupyter```
+If you have a Berkeley CalNet ID, you can run these lessons on UC Berkeley's DataHub by clicking this button:
 
-Note that all of the above steps can be run from the terminal, if you're familiar with how to interact with Anaconda in that fashion. However, using Anaconda Navigator is the easiest way to get started if this is your first time working with Anaconda.
+[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning-Fundamentals&urlpath=lab%2Ftree%2FPython-Machine-Learning-Fundamentals%2F&branch=main)
 
-## Is Python not Working on Your Computer?
-If you have a Berkeley CalNet ID, you can run these lessons on UC Berkeley's DataHub by clicking [![Datauhb](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning-Fundamentals&urlpath=tree%2FPython-Machine-Learning-Fundamentals%2F&branch=main). By using this link, you can save your work and come back to it at any time. When you want to return to your saved work, just go straight to DataHub [https://datahub.berkeley.edu](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning-Fundamentals&urlpath=tree%2FPython-Machine-Learning-Fundamentals%2F&branch=main), sign in, and you click on the `Python-Machine-Learning-Fundamentals` folder.
-
+By using this link, you can save your work and come back to it at any time. When you want to return to your saved work, just go straight to DataHub [https://datahub.berkeley.edu](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning-Fundamentals&urlpath=tree%2FPython-Machine-Learning-Fundamentals%2F&branch=main), sign in, and you click on the `Python-Machine-Learning-Fundamentals` folder.
 
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
+
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Machine-Learning-Fundamentals/main?urlpath=tree)
+
 By using this button, you cannot save your work unfortunately.
 
 # Additional Resources
@@ -85,3 +87,7 @@ Here are other Python workshops offered by the D-Lab:
 * Samy Abdel-Ghaffar
 * Sean Perez
 * Christopher Hench
+* Pratik Sachdeva
+* George McIntire
+* Sam Temlock
+* Emily Grabowski
