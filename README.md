@@ -6,7 +6,7 @@ This repository contains the materials for D-Lab’s Python Machine Learning wor
 
 ## Workshop Goals
 
-In this workshop, we provide an introduction to machine learning in Python. First, we'll cover some machine learning basics, including its foundational principles. Then, we'll dive into code, understanding how to perform regression, regularization, preprocessing, and classification. There are additional components of the workshop which explore building machine learning pipelines and unsupervised learning. We'll demonstrate how to perform these tasks using `scitkit-learn`, the main package used for machine learning in Python.
+In this workshop, we provide an introduction to machine learning in Python. First, we'll cover some machine learning basics, including its foundational principles. Then, we'll dive into code, understanding how to perform regression, regularization, preprocessing, and classification. There are additional components of the workshop which explore building machine learning pipelines and unsupervised learning. We'll demonstrate how to perform these tasks using `scikit-learn`, the main package used for machine learning in Python.
 
 This workshop is divided into the following parts:
 
