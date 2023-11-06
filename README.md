@@ -4,6 +4,8 @@
 
 This repository contains the materials for D-Lab’s Python Machine Learning workshop. Prior experience with [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals), [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization), and [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) is assumed.
 
+Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
+
 ## Workshop Goals
 
 In this workshop, we provide an introduction to machine learning in Python. First, we'll cover some machine learning basics, including its foundational principles. Then, we'll dive into code, understanding how to perform regression, regularization, preprocessing, and classification. There are additional components of the workshop which explore building machine learning pipelines and unsupervised learning. We'll demonstrate how to perform these tasks using `scikit-learn`, the main package used for machine learning in Python.
