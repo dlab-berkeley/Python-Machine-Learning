@@ -2,7 +2,10 @@
 
 [![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning&urlpath=lab%2Ftree%2FPython-Machine-Learning%2F&branch=main) [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Machine-Learning/HEAD)
 
-This repository contains the materials for D-Lab’s Python Machine Learning workshop. Prior experience with [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals), [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization), and [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) is assumed.
+This repository contains the materials for D-Lab’s Python Machine Learning workshop. 
+
+### Prerequisites
+Prior experience with [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals), [Python Intermediate](https://github.com/dlab-berkeley/Python-Intermediate), [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization), and [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) is assumed.
 
 Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
 
