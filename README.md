@@ -4,7 +4,7 @@
 
 This repository contains the materials for D-Lab’s Python Machine Learning workshop. 
 
-### Prerequisites
+## Prerequisites
 Prior experience with [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals), [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization), and [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) is assumed.
 
 Check out D-Lab’s [Workshop Catalog](https://dlab-berkeley.github.io/dlab-workshops/) to browse all workshops, see what’s running now, and review prerequisites.
