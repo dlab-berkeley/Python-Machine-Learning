@@ -66,7 +66,7 @@ By using this button, you cannot save your work unfortunately.
 Check out the following resources to learn more about machine learning:
 
 * [scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html).
-* [Stanford's CS229 course materials](https://cs229.stanford.edu/syllabus.html).
+* [CS229](https://cs229.stanford.edu/) Stanford's course [materials](https://docs.google.com/spreadsheets/d/1sEu4ygD5HWxaqjvbR2nsjvG6NBoW5tRW/edit#gid=348511794).
 * [IBM's free course of machine learning in Python](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct).
 * The [Elements of AI course](https://course.elementsofai.com/).
 
